@@ -16,4 +16,6 @@ This is a simple visitor's entry website made on HTML and PHP where we have a ht
 
 **Screenshots**
 ![Screenshot 2024-06-19 173802](https://github.com/manvithapula/visitors-entry/assets/113161233/50809fca-2434-45c6-b37d-5db1b4fa66fe)
+
+database structure
 ![Screenshot 2024-06-19 173923](https://github.com/manvithapula/visitors-entry/assets/113161233/2ee66019-00f6-437f-9a67-287149e14953)
